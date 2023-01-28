@@ -1,0 +1,23 @@
+{
+  "name": "random-phrases-any-language",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "npm i -g seed-phrase"
+  },
+  "keywords": [
+    "random",
+    "phrase",
+    "any",
+    "language"
+  ],
+  "author": "HumbleWolfStudio <[humblewolfstudio@gmail.com](mailto:humblewolfstudio@gmail.com)>",
+  "license": "ISC",
+  "dependencies": {
+    "@william5553/translate-google-api": "^3.1.0",
+    "seed-phrase": "^1.0.0"
+  },
+  "type": "module"
+}
