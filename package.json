@@ -1,6 +1,6 @@
 {
   "name": "random-phrases-any-language",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,10 @@
   ],
   "author": "HumbleWolfStudio <[humblewolfstudio@gmail.com](mailto:humblewolfstudio@gmail.com)>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humblewolfstudio/random-phrases-any-language"
+  },
   "dependencies": {
     "@william5553/translate-google-api": "^3.1.0",
     "seed-phrase": "^1.0.0"
