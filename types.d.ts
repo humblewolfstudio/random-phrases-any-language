@@ -1,0 +1,1 @@
+export async function generateAndTranslateText(nSentences: number, language: string): string;
